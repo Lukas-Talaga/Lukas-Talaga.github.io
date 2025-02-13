@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">Resume</a>
+<a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">Résumé</a>
 
 [Project Proposal](https://lukas-talaga.github.io/#project-proposal-structured-career-development-for-a-competitive-tech-job-market)
 

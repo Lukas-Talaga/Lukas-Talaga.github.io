@@ -2,6 +2,10 @@
 
 ---
 
+[Resume](https://lukas-talaga.github.io/resume.pdf)
+
+---
+
 ## Project Proposal: Structured Career Development for a Competitive Tech Job Market
 
 **Vision Statement:**  

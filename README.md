@@ -2,7 +2,7 @@
 
 ---
 
-[Resume](https://lukas-talaga.github.io/resume.pdf)
+[Resume](https://lukas-talaga.github.io/resume.pdf/)
 
 ---
 

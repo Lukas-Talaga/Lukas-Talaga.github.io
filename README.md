@@ -6,7 +6,10 @@
 
 [Project Proposal](https://lukas-talaga.github.io/#project-proposal-structured-career-development-for-a-competitive-tech-job-market)
 
-[Week 2 Status Update](https://lukas-talaga.github.io/#week-2)
+Weekly Status Updates:
+- [Week 2](https://lukas-talaga.github.io/#week-2)
+- [Week 3](https://lukas-talaga.github.io/#week-3)
+- [Week 4](https://lukas-talaga.github.io/#week-4)
 
 ---
 

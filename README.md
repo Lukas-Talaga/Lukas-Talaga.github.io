@@ -1,8 +1,8 @@
-# Lukas-Talaga.github.io
+# Lukas Talaga's Professional Development
 
 ---
 
-<a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">My resume!</a>
+<a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">Resume</a>
 
 [Project Proposal](https://lukas-talaga.github.io/#project-proposal-structured-career-development-for-a-competitive-tech-job-market)
 

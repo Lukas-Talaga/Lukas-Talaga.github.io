@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">My resume!</a>
+<a href="https://lukas-talaga.github.io/resume.pdf/" target="_blank">My resume!</a>
 
 [Resume](https://lukas-talaga.github.io/resume.pdf)
 

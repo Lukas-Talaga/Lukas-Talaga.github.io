@@ -4,6 +4,10 @@
 
 <a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">My resume!</a>
 
+[Project Proposal](https://lukas-talaga.github.io/#project-proposal-structured-career-development-for-a-competitive-tech-job-market)
+
+[Week 2 Status Update](https://lukas-talaga.github.io/#week-2)
+
 ---
 
 ## Project Proposal: Structured Career Development for a Competitive Tech Job Market

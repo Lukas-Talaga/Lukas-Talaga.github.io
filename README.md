@@ -1,4 +1,4 @@
-# Lukas Talaga's Professional Development
+# Professional Development Project
 
 ---
 

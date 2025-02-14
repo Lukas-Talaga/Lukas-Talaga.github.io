@@ -10,6 +10,7 @@ Weekly Status Updates:
 - [Week 2](https://lukas-talaga.github.io/#week-2)
 - [Week 3](https://lukas-talaga.github.io/#week-3)
 - [Week 4](https://lukas-talaga.github.io/#week-4)
+- [Week 5](https://lukas-talaga.github.io/#week-5)
 
 ---
 
@@ -125,3 +126,23 @@ Right now, the biggest impediment is making sure my third recommender responds o
 **Reflect on the process you used last week, how can you make the process work better?**
 
 The process of dividing everything into manageable tasks is continuing to pay off. Finishing updating my resume with current information and starting the application felt a lot less daunting once I broke them down into smaller “sub-tasks” rather than taking on “updating resume” and “finishing application” all at once. For the resume, I started by throwing everything in a document, then rewording, then polishing, then formatting, and only now am I worrying about the length. This helped me avoid procrastination and allowed me to focus on one step at a time rather than trying to polish before all the info was even there. Moving forward, I want to keep improving my time management by setting more concrete deadlines for each of my application components. This way, I can hold myself accountable and make sure I’m not leaving any parts of the application or recommendation requests until the last minute.
+
+---
+
+### Week 5
+
+**What did you do last week?**
+
+This past week was a bit of a scramble on the recommendation letter front. After sending multiple emails and not hearing back from one professor (I'm quite upset about it because I had him for 3 courses and put in a lot of effort in them), I decided it was time to pivot and reach out to someone else. Thankfully, Professor Gabriel Johnson responded within about an hour, which was a huge relief, and took so much stress and anxiety off my shoulders. Now I have two teachers who’ve already submitted their letters through the application portal, and I’m just waiting on the last one before I can finalize that part of my grad school application. In parallel, I spent a lot of time revising and shortening my resume, where it was extremely difficult to part with information about my past job and research that I'm proud of. I had this moment where I’d think I was done, then look at it again the next day and realize there was even more to refine. Eventually, I reached a stopping point I’m comfortable with and uploaded the finalized PDF to my website (<a href="https://lukas-talaga.github.io/resume.pdf" target="_blank">résumé</a>). Beyond that, I made decent progress on my Georgia Tech application by downloading all my transcripts from past schools, uploading them with information about my academic history, and filling in most of the required fields like all the multiple choice questions about myself.
+
+**What do you plan to do this week?**
+
+In the coming week, my top priority is to completely finish the Georgia Tech application, short answers and all, so that I can submit it early. The applications are reviewed in order of submission, so the sooner I submit, the sooner I'll have results that can go on my resume and job applications. I also want to start tailoring my resume specifically for job applications rather than grad school. Right now, the layout is focused on my experiences with skills at the bottom; I’m thinking about highlighting my skills at the top, since that matters more for potential employers. Another important goal is to draft a general cover letter template that I can tweak for each job posting. My idea is to have a “base cover letter” that provides an overview of my background, plus a few lines about why I’m excited for a particular role or company. That way, I’m not starting from scratch with every application.
+
+**Are there any impediments in your way?**
+
+My main challenges haven’t changed too much. There’s still some anxiety about making sure all the application details are correct before I hit “submit,” especially with the short answer responses. I tend to overthink these kinds of prompts, worrying if I’m saying too much or not enough; luckily there are extremely short word limits for each that will force me to be succinct. Another lingering concern is whether I should wait until I (hopefully) get accepted to Georgia Tech before I start applying for jobs. Part of me worries that I’ll be seen as less qualified if I don’t have the master’s listed on my resume, and had I waited, I might have gotten the job. I’m planning on asking around to see what other people think about that, but it’s definitely something that weighs on my mind whenever I look at job postings. Another thought is to add a blurb about a potential master's acceptance in my cover letter.
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+I’ve noticed that I’m still falling into the trap of perfectionism, especially when it comes to my resume and my grad school application essays. I’ll fiddle with a phrase or bullet point for way longer than I should, and I know that can be counterproductive, especially since there are more important/larger things that need to get done. But sometimes changing 3.7 to 3.70 back and forth to see what looks better is just too addicting and sucks my attention away from other things. On the plus side, breaking tasks into smaller pieces as in previous weeks, like gathering transcripts one day and setting up my account another, has helped me avoid feeling overwhelmed. It’s also reassuring to remember that my materials (whether for grad school or jobs) can always be tweaked or updated if I learn something new or get feedback. Moving forward, I need to work on just “sending it,” because I can’t perfect anything if I never let it see the light of day.

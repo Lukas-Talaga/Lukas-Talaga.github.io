@@ -11,6 +11,7 @@ Weekly Status Updates:
 - [Week 3](https://lukas-talaga.github.io/#week-3)
 - [Week 4](https://lukas-talaga.github.io/#week-4)
 - [Week 5](https://lukas-talaga.github.io/#week-5)
+- [Week 6](https://lukas-talaga.github.io/#week-6)
 
 ---
 
@@ -146,3 +147,24 @@ My main challenges haven’t changed too much. There’s still some anxiety abou
 **Reflect on the process you used last week, how can you make the process work better?**
 
 I’ve noticed that I’m still falling into the trap of perfectionism, especially when it comes to my resume and my grad school application essays. I’ll fiddle with a phrase or bullet point for way longer than I should, and I know that can be counterproductive, especially since there are more important/larger things that need to get done. But sometimes changing 3.7 to 3.70 back and forth to see what looks better is just too addicting and sucks my attention away from other things. On the plus side, breaking tasks into smaller pieces as in previous weeks, like gathering transcripts one day and setting up my account another, has helped me avoid feeling overwhelmed. It’s also reassuring to remember that my materials (whether for grad school or jobs) can always be tweaked or updated if I learn something new or get feedback. Moving forward, I need to work on just “sending it,” because I can’t perfect anything if I never let it see the light of day.
+
+---
+
+### Week 6
+
+**What did you do last week?**
+
+This past week was entirely centered on finishing my Georgia Tech Master's application, as my goal for the week was to make sure it was submitted by the end of the week so that I could start shifting my focus towards job applications. I had several people review my resume to make some final adjustments before deciding that it's good enough. After this, I had to go through the application and answer all the short answer questions, which took a lot longer than I was expecting. They're all short questions, but I quickly realized that having to be succinct was quite a challenge, because there's an inherent desire to explain everything and make yourself look good. Instead I realized that the application seems to genuinely just want clarity and minimal decorations. They want to know how you are prepared for this specific program with regard to CS skills. They aren't really interested in anything else. The one question that took me a lot of time was stating my post-bachelor work CS-related experience. My job was very heavily wet lab biochemical, molecular, and cellular biology focused, with the extent of my data analysis being in excel or spotfire. I wanted to somehow embellish this experience and somehow tie in CS-related work, but in the end I decided to just be honest in saying that I did not have any CS-related work experience. Regardless, I finished all the questions and I'm happy to say that I finally hit submit after going through the entire application with my brother, just to make sure I didn't make any silly mistakes.
+
+**What do you plan to do this week?**
+
+This week I am planning to shift my focus from my academic future to my career future. Now that I'm done with my application, I need to focus on preparing for internships and jobs, with the hope in mind that I will be accepted. Acceptance into the Master's will open me up to a lot more jobs and I need to prepare my materials with the expectation that I will be accepted. I was debating whether or not I should apply to jobs before or after hearing back, and I think I want to wait, because I don't want to have to figure out how to update companies with the information that I was accepted. I would rather have all that information combined in my resume, especially for positions I am very excited about. So, at a minimum, I would like to have my resume set up for job applications (some slight modifications from the one I used for the grad application) and a template cover letter. I am going to prepare both with the expectation that I will be accepted, which means writing this information in the resume and in the cover letter.
+
+**Are there any impediments in your way?**
+
+The biggest new impediment this week is the graduate application. The sooner I hear back the better for the next step of applying for jobs and internships. Besides that, all the impediments from future weeks are still present in regards to time management, stress, anxiety, etc. Luckily, I'm still on a good track and have been improving my ability to manage all these impediments as the weeks go by. This is my last semester of the program, and the closer I get to being done, the more and more I feel like I am getting back into the career/professional life. I haven't enjoyed being exclusively a student, so the ability to feel like an adult again soon is exciting and I have a lot of motivation to take these next career steps.
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+This week, I just need to take the same process I have been using, and simply shift the focus. I have had a good process and system going, so shifting the focus rather than trying to reinvent the wheel will be very beneficial for me as I continue on in this project. 
+

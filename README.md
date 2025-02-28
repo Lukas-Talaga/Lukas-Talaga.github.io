@@ -12,6 +12,7 @@ Weekly Status Updates:
 - [Week 4](https://lukas-talaga.github.io/#week-4)
 - [Week 5](https://lukas-talaga.github.io/#week-5)
 - [Week 6](https://lukas-talaga.github.io/#week-6)
+- [Week 7](https://lukas-talaga.github.io/#week-7)
 
 ---
 
@@ -168,3 +169,22 @@ The biggest new impediment this week is the graduate application. The sooner I h
 
 This week, I just need to take the same process I have been using, and simply shift the focus. I have had a good process and system going, so shifting the focus rather than trying to reinvent the wheel will be very beneficial for me as I continue on in this project. 
 
+---
+
+### Week 7
+
+**What did you do last week?**
+
+This past week, I made good on my plan/intention to start shifting away from my graduate school focus towards a career focus. This worked out well because this shift in focus perfectly coincided with our professional development course's week dedicated to reviewing the school's career services and LinkedIn Learning offerings, both of which can be beneficial for my transition. This exploration took longer than anticipated and took away some of my scheduled time for working on job application materials, so most of this week's effort was spent working on exploring these services, tools, videos, and writing the required review of the materials. That said, the time spent was still valuable for my professional development effort/transition, and even with the added work, I was able to make modifications to my resume. It now looks more like a resume for tech job applications, where the focus is more on my skills rather than past unrelated experiences which I had higher up for my grad applications since experiences are usually valued more highly there.
+
+**What do you plan to do this week?**
+
+This week I plan to continue preparing my job application materials by creating a template cover letter that I can easily tailor for individual job applications. I will also start spending a significant amount of my free time looking at jobs in the current market to see if there is anything I can do or prepare outside of school coursework. One area where I fall short is my list of projects, but I’m not sure I have enough time to complete an impressive side project before I begin sending out job applications. I think my previous plan of working on smaller, more productivity-related skills is better, so getting a good sense of what sorts of side skills are valuable in the current market seems like a good idea. My thoughts are still that learning Vim would be really beneficial for my long-term career, but I'm starting to question if that's really the case with where AI-based coding seems to be going. If coding becomes highly GUI based, primarily based on accepting or rejecting changes, keyboard schortcuts might not be all that helpful.
+
+**Are there any impediments in your way?**
+
+The biggest impediments in the past were my time management and stress, but now that my Georgia Tech application is submitted, I feel an immense pressure lifted off my shoulders, and I feel much more eager to move forward. The new impediment will now just be learning to handle rejection well and dealing with the stress of waiting to hear back regarding positions I apply for. 
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+This past week, I didn't spend as much time as I would have liked to on my project due to the need to explore the career services and LinkedIn Learning offerings. This isn't necessarily a problem, but in regards to my project, I will have more time and ability to focus on my career development now that I have completed that required activity.

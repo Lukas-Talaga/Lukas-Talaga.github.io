@@ -13,6 +13,7 @@ Weekly Status Updates:
 - [Week 5](https://lukas-talaga.github.io/#week-5)
 - [Week 6](https://lukas-talaga.github.io/#week-6)
 - [Week 7](https://lukas-talaga.github.io/#week-7)
+- [Week 8](https://lukas-talaga.github.io/#week-8)
 
 ---
 

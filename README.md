@@ -206,7 +206,7 @@ I also recognize that I need to pick up the pace now that the major goal of my a
 
 **Are there any impediments in your way?**
 
-
+While finalizing my resume and cover letter has alleviated some of the initial stress, I still face challenges related to the uncertainty of the job application process. The anxiety of waiting for responses and managing potential rejections remains a concern and source of negativity. Moreover, balancing these efforts with ongoing coursework and personal commitments can be demanding. The stress alone sometimes stops me from getter anything else done, or will cause me to waste hours browsing job boards, only serving to add worry as I find more jobs to apply for, but with not a single application sent out yet. Nonetheless, by maintaining a structured schedule and regularly seeking feedback, I am confident that I can navigate these challenges effectively.
 
 **Reflect on the process you used last week, how can you make the process work better?**
 

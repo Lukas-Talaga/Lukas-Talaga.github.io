@@ -196,7 +196,7 @@ This past week, I didn't spend as much time as I would have liked to on my proje
 
 **What did you do last week?**
 
-
+Last week, I successfully accomplished the major goals I set for transitioning my focus from academic applications to launching my career. I dedicated significant time to revising my resume, ensuring that it now highlights/emphasizes my technical skills, recent projects, and tailored experience for tech job applications. In parallel, I creqted a versatile cover letter template that not only communicates my background and enthusiasm for the roles I’m targeting but can also be easily customized for different job postings. I also revisited my LinkedIn profile and incorporated peer feedback to improve its clarity, readability, and impact (rewriting certain descriptions that didn't sound as impressive as they could). The process of iterating on these materials was both challenging and rewarding, as it pushed me to refine my story and present my accomplishments with greater confidence. Having gone through all of this, I am much more confident in myself as a productive member of society, and I'm finally gaining an appreciation for what I've accomplished.
 
 **What do you plan to do this week?**
 

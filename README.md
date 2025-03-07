@@ -189,3 +189,22 @@ The biggest impediments in the past were my time management and stress, but now 
 **Reflect on the process you used last week, how can you make the process work better?**
 
 This past week, I didn't spend as much time as I would have liked to on my project due to the need to explore the career services and LinkedIn Learning offerings. This isn't necessarily a problem, but in regards to my project, I will have more time and ability to focus on my career development now that I have completed that required activity.
+
+---
+
+### Week 8
+
+**What did you do last week?**
+
+
+
+**What do you plan to do this week?**
+
+
+
+**Are there any impediments in your way?**
+
+
+
+**Reflect on the process you used last week, how can you make the process work better?**
+

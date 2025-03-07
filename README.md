@@ -210,3 +210,4 @@ While finalizing my resume and cover letter has alleviated some of the initial s
 
 **Reflect on the process you used last week, how can you make the process work better?**
 
+Reflecting on my progress last week, breaking down the revision process into focused, manageable tasks proved invaluable. Gathering and requesting timely feedback and iterating on each component helped me overcome perfectionism and produce stronger, more impactful materials. Moving forward, I plan to set concrete mini-deadlines for each stage of my job application process. This structured approach not only minimizes procrastination but also builds momentum and confidence as I transition fully into my career pursuits.

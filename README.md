@@ -17,6 +17,7 @@ Weekly Status Updates:
 - [Week 7](https://lukas-talaga.github.io/#week-7)
 - [Week 8](https://lukas-talaga.github.io/#week-8)
 - [Week 9](https://lukas-talaga.github.io/#week-9)
+- [Week 10](https://lukas-talaga.github.io/#week-10)
 
 ---
 
@@ -235,3 +236,23 @@ I have a lot of goals for this week so my main concern is not getting overwhelme
 **Reflect on the process you used last week, how can you make the process work better?**
 
 I get surprised that others don’t talk about their mental health more as an impediment, but as usual, I have noticed that improving my mental health drastically aides in my ability to work better and succeed with the goals I set out. I got very overwhelmed by how much I had to do in my personal life, on top of schoolwork and the mid-semester update, thus I didn’t accomplish what I wanted to and did the bare minimum necessary. That said, I was able to recognize this in the moment so I decided to go head first and forced myself to schedule and accomplish all my personal work that week, knowing that I would feel so much better with the ability to focus on less at one time moving forward. Reflecting on that, I need to get better at finding this motivation sooner, before it all piles up. I truly envy people who have something come up and can casually take care of it right away if they’re not doing anything else. If I can teach myself to do this moving forward, I would be unstoppable. That all said, I recognize that this is something most people struggle with and may be easier or more difficult depending on so many life factors at any present moment.
+
+---
+
+### Week 10
+
+**What did you do last week?**
+
+Last week I successfully transitioned into the jobsearch mindset and I immediately saw why there's presently a very strong negative mindset online about the current job market as a whole, but especially for tech. Regardless, I chugged along and made significant progress towards my goals and milestones. I made an excel document to track all the jobs that I apply for including Status, Link, Company, and Title, to better organize myself and keep track of where/what I apply for, and what I'm still waiting to hear back from. I also created bookmark folders and compiled all my tabs into categories including Internships, Jobs, AbbVie (AbbVie is separated because these are my top priority jobs). I also created a document with information I was regularly needing to paste into job applications to avoid having to repeatedly type things out. Luckily I found a way to make this process even easier. There is a Chrome extension in which you can input all this descriptive information like Jobs, Education, Language, Skills, etc. and it will autofill these applications if they are using common job application sites like WorkDay. This will save a lot of time and make the process a lot less stressful and tedious. Finally, I sucessfully submit applications for 10 jobs/internships! The only position I have heard back from is an Associate Scientist/Engineer position at P&G. They required an online assessment to be taken before even accepting the application. This took me 30 minutes of my life and I ended up getting automatically rejected based on my results with no hint as to why. It wasn't even a technical assessment. I am thinking about reaching out to try and find out why my results weren't acceptable, but I also may not because I already feel like I wasted enough time with that position.
+
+**What do you plan to do this week?**
+
+This week I plan to continue chugging along with sending out job applications. My top priority at the moment is to get as many applications as possible out, because other goals of mine can be the focus while I wait for responses. Now that I spent this past week organizing all the material, I should be able to move a little bit faster. That said, I cannot spend all my time doing just this, so in my free time during Spring Break, I plan to get started on some LeetCode questions, but also to take time exploring other options for improving my technical interviewing skills. Kaggle might be a good secondary practice tool since I have a preference for data-focused positions, and this will let me practice some of the basic skills and keep terminology from past semesters more fresh in my head.
+
+**Are there any impediments in your way?**
+
+The biggest impediment is the current job market because at the moment, the availablility of entry level positions is very low. It's difficult to find even a single position that doesn't require 2 years of experience. The currently political landscape and economy are effecting the job market and this is making it very hard to be optimistic, but I'm trying my best to start motivated. One of the things that keeps me going is the hope that I can apply for a position that requires experience, but be brought on as a lower level, in the event that they like me. My brother experienced this when he interviewed for a senior level position without meeting all the qualifications and they ended up hiring him on as a mid-level employee, and it was STILL a salary bump + move to being fully remote.
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+After finding this chrome extension that can autofill job applications, I'm going to do a little research to see if there are more tools out there for people job searching. It might even be worthwile to pay for a monthly subscription if it helps enough. Apparently there are tools that can automatically tailor materials for specific postings based on words used, so that's one of the tools I'll be looking into. Anything that can make the process less stressful will also make the process work better.

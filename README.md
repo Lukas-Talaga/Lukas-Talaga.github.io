@@ -18,6 +18,7 @@ Weekly Status Updates:
 - [Week 8](https://lukas-talaga.github.io/#week-8)
 - [Week 9](https://lukas-talaga.github.io/#week-9)
 - [Week 10](https://lukas-talaga.github.io/#week-10)
+- [Week 11](https://lukas-talaga.github.io/#week-11)
 
 ---
 
@@ -256,3 +257,23 @@ The biggest impediment is the current job market because at the moment, the avai
 **Reflect on the process you used last week, how can you make the process work better?**
 
 After finding this chrome extension that can autofill job applications, I'm going to do a little research to see if there are more tools out there for people job searching. It might even be worthwile to pay for a monthly subscription if it helps enough. Apparently there are tools that can automatically tailor materials for specific postings based on words used, so that's one of the tools I'll be looking into. Anything that can make the process less stressful will also make the process work better.
+
+---
+
+### Week 11
+
+**What did you do last week?**
+
+"Last week" for this update includes spring break, so I spent the past two weeks making significant progress, farm more than I thought possible, towards applying for jobs. As of right now, I have applied to 60 positions, most of which was done directly through company websites, though some were also submitted using the "Easy Apply" function on LinkedIn. I was not expecting how long it would take to apply to each individual job, but that's also because I'm going out of my way to at the very least, tailor my cover letter to  each position. I add the company's logo, a sentence about which position I am applying for, and a sentence about why I like the position. The other thing to note about my cover letter is that I mention that I am also happy to discuss other roles that fit my background and skills, so there's always the chance that I get contacted about a different position or about a more junior position of the same role. I have been steadily filling out my spreadsheet with each job link, company name, and position title. Any time I get a rejection (6 so far out of 60), I highlight the row in red. This document has been incredibly helpful to keep track of which positions I already applied for, and makes it easy to access my submitted application or go back to see the job description if I ever need to. Finally, I spent a long time composing an email to my old manager at AbbVie to refresh that connection and also mention that I am in the job market again for non-lab positions, and I would appreciate a referral if anything comes up.
+
+**What do you plan to do this week?**
+
+This week I plan to continue applying to positions, continuously making minor optimizations or improvements to my job application materials as I learn new things or find better ways to word things. I don't want to lose focus and shift to a different goal for right now, since I'm on such a roll, and this is the most important/time-sensitive goal that I have. I have one more month of school left before I graduate, so I really don't want to be sitting around doing nothing but applying for jobs for a long time. I already have a work-related resume gap, and the only thing making that acceptable has been school. I also need to figure out what to do about applying for AbbVie. I can't decide if I should email HR's career email as an ex-employee asking about multiple positions, or if I should instead just directly apply for 4+ jobs. I have heard pros and cons about both options, so I'm having a hard time deciding.
+
+**Are there any impediments in your way?**
+
+It seems like maybe the job market is picking back up because of Q2, but it's been really hard to tell, especially with all the political and economic turmoil going on right now. I would imagine that a stock market crash might create a bit of a hiring freeze. There is also a looming issue of potential technical interviews which I have not begun to prepare for. That said, if I get an interview offer, I will just stop everything and put everything into preparing, until it's over. There's also the annoying issue of still not hearing back from my Masters program. I keep finding internships I would love to apply for, but I can't do that until I can show that I will be enrolled in a graduate program.
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+I have consistently had this issue of worry and anxiety making it difficult to press on, focus, and get things done, but I seem to have found a system that works. My belief is that I reached a point with job applications that it became much easier to apply as I got into a routine. In fact, it has gotten to the point where I'm having a hard time working on homework and projects because I keep getting distracted finding jobs I want to apply for. It's becomming addicting and I think part of that is because I eventually realized that a lot of this is a numbers game. So the more applications I send out, the less stressed and worried I am because every additional application, even if it's not my best, is only increasing my odds.

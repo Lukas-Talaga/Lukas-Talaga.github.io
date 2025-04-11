@@ -19,6 +19,7 @@ Weekly Status Updates:
 - [Week 9](https://lukas-talaga.github.io/#week-9)
 - [Week 10](https://lukas-talaga.github.io/#week-10)
 - [Week 11](https://lukas-talaga.github.io/#week-11)
+- [Week 12](https://lukas-talaga.github.io/#week-12)
 
 ---
 
@@ -277,3 +278,23 @@ It seems like maybe the job market is picking back up because of Q2, but it's be
 **Reflect on the process you used last week, how can you make the process work better?**
 
 I have consistently had this issue of worry and anxiety making it difficult to press on, focus, and get things done, but I seem to have found a system that works. My belief is that I reached a point with job applications that it became much easier to apply as I got into a routine. In fact, it has gotten to the point where I'm having a hard time working on homework and projects because I keep getting distracted finding jobs I want to apply for. It's becomming addicting and I think part of that is because I eventually realized that a lot of this is a numbers game. So the more applications I send out, the less stressed and worried I am because every additional application, even if it's not my best, is only increasing my odds.
+
+---
+
+### Week 12
+
+**What did you do last week?**
+
+This past week was mostly a continuation of the previous week. I have now applied to 100 jobs, and day by day it gets easier as I become more comfortable with the process and continue to develop my system. I also took a break one day to spend a solid 8 hours making my resume and cover letter even stronger than before. It makes me feel bad about the jobs I already applied to, but there will always be improvements I can make, and there’s no going back. I can only count on these changes being helpful for the future. I was also quite pleased this week because I found three jobs I’m genuinely excited about and that I think I have a good chance with. I surprised myself, though, because they aren’t the pure data/coding jobs I initially targeted. Instead, one is focused on scientific compliance (including data), one is a data scientist position that acts as a liaison between business, R&D, and clinical teams, and one is a pharmaceutical compound management role that incorporates data science and software engineering. They’re all relatively entry-level, but I’m more excited because I believe I have a genuine chance thanks to connections from my previous position. My previous manager has already submitted recommendations for the first two, and the third is with a company I worked very closely with in my previous role.
+
+**What do you plan to do this week?**
+
+Next week, after I submit these three applications tomorrow (it took a bit of coordination to get the recommendations), I’m going to slow down slightly on the search to focus more on potential interviews. I have already started preparing, but I want to spend more time brushing up on skills I haven’t used in a while that are listed in the job postings I’m targeting. For me, that will mostly mean refreshing my machine learning, statistics, and data science skills/libraries. I’ve started talking with ChatGPT extensively to get a sense of what questions I might be asked, and I’m using that to structure my learning process. I’m less worried about making a silly coding mistake or failing a pointless algorithms question and more concerned about not remembering what the coefficients in logistic regression represent, or something along those lines. I get the sense that data-focused positions might ask more relevant questions that matter to the job and can’t be dismissed as merely a momentary lapse in memory like a typical LeetCode question.
+
+**Are there any impediments in your way?**
+
+Oddly enough, my major impediment right now is holding back on applying and searching for jobs. I need to focus on the end of the semester and also prepare myself in case I get lucky with an interview. There’s always that fear of potentially missing out, but at this point it sometimes feels I’ve found and applied to every job in the US that I genuinely think I have a shot at. The final projects and exams will take up some time and I’m bound to feel stressed, but the thought of finishing school (for now) has been keeping me mentally strong. I see the end!!!
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+I’ve surprised myself with how much progress I’ve made in my time management, focus, and mental health this semester, so I’m just going to keep doing what I’ve been doing. I initially thought this course would just keep me accountable, but reflecting on everything each week has essentially forced me to journal, a process I typically despise, and I believe it’s been very valuable for understanding how I work and making meaningful adjustments. I don't just feel accountable for spending three hours a week; I feel accountable for making meaningful progress toward my development as a professional, and it's been massively helpful.

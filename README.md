@@ -20,6 +20,7 @@ Weekly Status Updates:
 - [Week 10](https://lukas-talaga.github.io/#week-10)
 - [Week 11](https://lukas-talaga.github.io/#week-11)
 - [Week 12](https://lukas-talaga.github.io/#week-12)
+- [Week 13](https://lukas-talaga.github.io/#week-13)
 
 ---
 
@@ -298,3 +299,23 @@ Oddly enough, my major impediment right now is holding back on applying and sear
 **Reflect on the process you used last week, how can you make the process work better?**
 
 I’ve surprised myself with how much progress I’ve made in my time management, focus, and mental health this semester, so I’m just going to keep doing what I’ve been doing. I initially thought this course would just keep me accountable, but reflecting on everything each week has essentially forced me to journal, a process I typically despise, and I believe it’s been very valuable for understanding how I work and making meaningful adjustments. I don't just feel accountable for spending three hours a week; I feel accountable for making meaningful progress toward my development as a professional, and it's been massively helpful.
+
+---
+
+### Week 13
+
+**What did you do last week?**
+
+Last week I submitted the 3 most important applications of my job search process so far. These are the positions I think I have the best shot for, both because of my background, and because of the connections I have to the companies. This took a lot longer than expected because I spent around 2 hours on each cover letter and made some more updates to my resume. I also got notice that I was selected for an interview next Wednesday for a Data Scientist position that is quite desireable. I'm keeping my expectations low because this seems like a position that would have much more qualified people applying for, but I have always been good at interviews so who knows! It's a 30 minute phone interview, so the nice thing is that I don't have to worry about a technical interview just yet. I also just got an email to complete an assessment for a biology/health data analyst position. It's possible they send this to everyone, but I applied quite a while ago, so it makes me think I passed the initial screening.
+
+**What do you plan to do this week?**
+
+My number one focus is going to be completing this job position assessment ASAP and to begin prepping for the interview. It's just a 30 minute phone call, but it'll be my first interview in ~3 years, so I need to brush up on the typical HR interview question and also prepare myself by researching the company, the role, and preparing questions to ask. I also really need to think about how I want to frame my past work experience and have a good explanation for my career gap. ChatGPT is going to be a great resource to practice with all these things so I'm going to spend hours brainstorming in a chat. In addition to just having answers, I'm going too practice speaking them out loud, so that I can say things with confidence and be able to effectively communicate my thoughts.
+
+**Are there any impediments in your way?**
+
+Final projects and exams are going to be the biggest impediment right now. They're taking up a lot of my time, so I'm going to need to take a small break from applying to jobs until I make it past the rest of this week and next. And who knows, maybe by that time I'll finally hear back from the Master's program I applied to. 
+
+**Reflect on the process you used last week, how can you make the process work better?**
+
+I don't think there's any room for making my process any better during these final projects and exams. My enthusiasm about my process from last week has dissapeared as I am becomming stressed about finishing everything on time while also preparing for an interview. If anything, the best thing I can do is remind myself that I can focus on my process and my profession development 100% in a week and a half, when this is all over. I already printed out a calendar to write down all my due dates for the next weeks which has been extremely helpful, so that I can very clearly see when everything is due at all times. I have it right on my wall so that I don't have to go looking for due dates when I start panicking that I'm forgetting something.
